@@ -10,7 +10,7 @@ nav:
 # External links.
 extra:
   generator: false
-  homepage: https://duckcloud.co
+  homepage: https://duckcloud.fr
   alternate:
     - name: 🇬🇧 English
       link: /
@@ -19,13 +19,13 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/theduckcompany/duckcloud
     # - icon: fontawesome/brands/patreon
-    #   link: https://link.duckcloud.co/patreon
+    #   link: https://link.duckcloud.fr/patreon
     # - icon: material/chat
-    #   link: https://link.duckcloud.co/chat
+    #   link: https://link.duckcloud.fr/chat
     # - icon: fontawesome/brands/mastodon
     #   link: https://floss.social/@duckcloud
     # - icon: material/home
-    #   link: https://www.duckcloud.co/
+    #   link: https://www.duckcloud.fr/
 
 
 # Project paths.
