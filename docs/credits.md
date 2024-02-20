@@ -1,13 +1,13 @@
 # Credits
 
-<!-- [A big thank you to all current and past sponsors](https://github.com/photoprism/photoprism/blob/develop/SPONSORS.md), whose generous support has been and continues to be essential to the success of the project! :octicons-heart-fill-24:{ .heart .purple } -->
+<!-- [A big thank you to all current and past sponsors](https://github.com/theduckcompany/duckcloud/blob/develop/SPONSORS.md), whose generous support has been and continues to be essential to the success of the project! :octicons-heart-fill-24:{ .heart .purple } -->
 
 ## Infrastructure ##
 
 Our project infrastructure is provided by the following companies:
 
-- [**GitHub**](https://github.com/) hosts our [code repositories](https://github.com/photoprism/photoprism) and also provides many other important services
-- [**Element**](https://element.io/) develops and [operates the infrastructure](https://matrix.org/) that our [community chat](https://link.photoprism.app/chat) is based on
+- [**GitHub**](https://github.com/) hosts our [code repositories](https://github.com/theduckcompany/duckcloud) and also provides many other important services
+- [**Element**](https://element.io/) develops and [operates the infrastructure](https://matrix.org/) that our [community chat](https://link.duckcloud.co/chat) is based on
 - [**BrowserStack**](https://www.browserstack.com/) provides [free access](https://www.browserstack.com/open-source) to their device and browser testing infrastructure
 
 ## Technologies ##

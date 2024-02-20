@@ -17,13 +17,13 @@ extra:
       lang: en
   social:
     - icon: fontawesome/brands/github
-      link: https://link.photoprism.app/github
+      link: https://github.com/theduckcompany/duckcloud
     # - icon: fontawesome/brands/patreon
     #   link: https://link.duckcloud.co/patreon
     # - icon: material/chat
     #   link: https://link.duckcloud.co/chat
     # - icon: fontawesome/brands/mastodon
-    #   link: https://floss.social/@photoprism
+    #   link: https://floss.social/@duckcloud
     # - icon: material/home
     #   link: https://www.duckcloud.co/
 
