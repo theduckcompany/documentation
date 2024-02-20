@@ -1,0 +1,64 @@
+site_name: Duckcloud
+
+nav:
+  - User Guide:
+    - Installation: user-guide/installation.md
+  - About:
+    - Credits: credits.md
+    - Public License: license/agpl.md
+
+# External links.
+extra:
+  generator: false
+  homepage: https://duckcloud.co
+  alternate:
+    - name: 🇬🇧 English
+      link: /
+      lang: en
+  social:
+    - icon: fontawesome/brands/github
+      link: https://link.photoprism.app/github
+    # - icon: fontawesome/brands/patreon
+    #   link: https://link.duckcloud.co/patreon
+    # - icon: material/chat
+    #   link: https://link.duckcloud.co/chat
+    # - icon: fontawesome/brands/mastodon
+    #   link: https://floss.social/@photoprism
+    # - icon: material/home
+    #   link: https://www.duckcloud.co/
+
+
+# Project paths.
+docs_dir: docs
+site_dir: site
+
+# Project information.
+site_name: Duckcloud
+site_description: Official Documentation
+site_author: TheDuckCompany
+site_url: https://docs.duckcloud.io/
+use_directory_urls: true
+
+# Repository information.
+repo_name: theduckcompany/duckcloud
+repo_url: https://github.com/theduckcompany/duckcloud
+edit_uri: https://github.com/theduckcompany/duckcloud-docs/tree/master/docs
+copyright: 'Made with ❤ in France'
+
+
+theme: 
+  name: 'material'
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - content.action.edit
+    - content.tooltips
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+  font:
+    text: Roboto
+    code: Roboto Mono
