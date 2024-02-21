@@ -1,8 +1,15 @@
 site_name: Duckcloud
 
 nav:
-  - User Guide:
-    - Installation: user-guide/installation.md
+  - Installation Guide:
+    - Introduction: installation-guide/introduction.md
+    - Reverse Proxies:
+      - Why use a Proxy ?: installation-guide/proxies/why-use-a-proxy.md
+      - Apache 2.4: installation-guide/proxies/apache-2.md
+      - Caddy 1: installation-guide/proxies/caddy-1.md
+      - Caddy 2: installation-guide/proxies/caddy-2.md
+      - Haproxy: installation-guide/proxies/haproxy.md
+      - NGINX: installation-guide/proxies/nginx.md
   - About:
     - Credits: credits.md
     - Public License: license/agpl.md
@@ -62,3 +69,54 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+
+# MkDocs extensions.
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shortener: true
+      social_url_shortener: true
+      normalize_issue_symbols: true
+      user: 'photoprism'
+      repo: 'photoprism'
+  - pymdownx.mark
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - md_in_html
+  - attr_list
+  - def_list
+  - tables
+  - abbr
+  - meta
