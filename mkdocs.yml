@@ -3,6 +3,9 @@ site_name: Duckcloud
 nav:
   - Installation Guide:
     - Introduction: installation-guide/introduction.md
+    - Packages: 
+      - Package Managers: installation-guide/packages/package-managers.md
+      - Manual Installation: installation-guide/packages/manual-installation.md
     - Reverse Proxies:
       - Why use a Proxy ?: installation-guide/proxies/why-use-a-proxy.md
       - Apache 2.4: installation-guide/proxies/apache-2.md
