@@ -2,5 +2,9 @@
 
 The installation process require several steps:
 
-- Install the binary
+- [Install the binary](./packages/package-managers.md)
 - [Setup a reverse proxy](./proxies/why-use-a-proxy.md)
+
+
+!!! example ""
+    **Help improve these docs!** You can contribute by clicking :material-file-edit-outline: to send a pull request with your changes.
