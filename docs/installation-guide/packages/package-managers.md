@@ -7,10 +7,9 @@
 
 ------
 
-
-| Package Manager | Command         |
-|-----------------|-----------------|
-| Archlinux (AUR) | `yay duckcloud` |
+| Package Manager | Command         | Status                                                                                                                           |
+|-----------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Archlinux (AUR) | `yay duckcloud` | [![AUR package](https://repology.org/badge/version-for-repo/aur/duckcloud.svg)](https://repology.org/project/duckcloud/versions) |
 
 
 !!! example ""
