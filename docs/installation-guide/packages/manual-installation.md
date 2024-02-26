@@ -13,15 +13,12 @@ With Go's `install`, you can install duckcloud via:
     ```
 
 
-
-
 The binary will be installed inside `$GOBIN`. You need to append `$GOBIN` to you `$PATH` env variable.
 
 !!! code "~/.bashrc"
     ```
     export PATH="$GOBIN:$PATH"
     ```
- 
 
 ## From Binaries
 
