@@ -1,4 +1,4 @@
-# Systemd configuration
+# Start/Enable the systemd service
 
 
 Duckcloud lifecycle is managed by [Systemd service manager](https://systemd.io/) this bring several advantages:
