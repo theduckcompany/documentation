@@ -4,7 +4,8 @@ The installation process require several steps:
 
 - [Install the binary](./packages/package-managers.md)
 - [Setup a reverse proxy](./proxies/why-use-a-proxy.md)
-- [Setup Systemd](./systemd.md)
+- [Start/Enable the systemd service](./systemd.md)
+- [Register your password to allow an automatic restart](./password.md) (optional)
 
 
 !!! example ""
