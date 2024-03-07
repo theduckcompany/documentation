@@ -33,3 +33,8 @@ open-source developer a product ensure itself a more stable and perennial suppor
 
 At home on your own hardware or in the cloud you trust, DuckCloud have an easy installation and its maintenance 
 process.
+
+
+[1]: https://en.wikipedia.org/wiki/Dropbox
+[2]: https://en.wikipedia.org/wiki/Microsoft_365
+[3]: https://en.wikipedia.org/wiki/Google_Drive
