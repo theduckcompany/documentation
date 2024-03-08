@@ -8,7 +8,7 @@ Duckcloud lifecycle is managed by [Systemd service manager](https://systemd.io/)
 - It allow to provide in a safe way the secrets to the application.
 
 
-### Start the service ###
+### Start the service
 
 First you can start you service by running:
 
@@ -25,7 +25,7 @@ If you want to automatically start duckcloud at startup you can run this command
     ```
 
 
-### Check the service status ###
+### Check the service status
 
 
 You can quickly check if everything by running:
@@ -36,7 +36,7 @@ You can quickly check if everything by running:
     ```
 
 
-### Check the service logs ###
+### Check the service logs
 
 In case of error you can find details by running:
 

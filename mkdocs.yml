@@ -6,6 +6,7 @@ nav:
     - Packages: 
       - Package Managers: installation-guide/packages/package-managers.md
       - Manual Installation: installation-guide/packages/manual-installation.md
+    - Configuration: installation-guide/configuration.md
     - Reverse Proxies:
       - Why use a Proxy ?: installation-guide/proxies/why-use-a-proxy.md
       - Apache 2.4: installation-guide/proxies/apache-2.md
@@ -13,7 +14,8 @@ nav:
       - Caddy 2: installation-guide/proxies/caddy-2.md
       - Haproxy: installation-guide/proxies/haproxy.md
       - NGINX: installation-guide/proxies/nginx.md
-    - Systemd configuration: installation-guide/systemd.md
+    - Systemd: installation-guide/systemd.md
+    - Password registration: installation-guide/password.md
   - About:
     - Credits: credits.md
     - Public License: license/agpl.md
